@@ -21,7 +21,7 @@ namespace ConsoleApp1
             }
             Console.WriteLine("Hello World!");
             int[] nums = { 1, 11, 2, 3, 15 };
-            List<int> ls = new List<int>();
+            List<int> ls = new List<int>(); 
             ls.Add(5);
             ls.Add(8);
             ls.Remove(5);
